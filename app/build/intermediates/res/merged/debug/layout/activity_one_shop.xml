@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="top">
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+       >
+
+        <TextView
+            android:id="@+id/onecode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Code :"
+            android:textSize="20dp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/onefirstname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First name :"
+            android:textSize="20dp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/onelastname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last name :"
+            android:textSize="20dp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/oneadresse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adresse :"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/onecityname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City :"
+            android:textSize="20dp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/oneprovincename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Province :"
+            android:textSize="20dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_below="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="set Location"
+            android:background="@drawable/my_button"
+            android:id="@+id/btnset"
+            android:visibility="invisible"/>
+    </LinearLayout>
+    <com.google.android.gms.maps.MapView
+        android:layout_below="@id/ll2"
+        android:id="@+id/mapView1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+
+</RelativeLayout>

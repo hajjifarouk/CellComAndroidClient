@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:5:22-64
+uses-library#com.google.android.maps
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:11:22-95
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:14:5-47:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\farouk\.android\build-cache\3194f6a4669e6a0ab3ea8f60581ec8c4cf712e0c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\farouk\.android\build-cache\a76872b1b209b70822b6a0a2fb34a6587479309b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\c6a90ff974e77e03a1a3e45d9d388f288e1d1c30\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\f9cf81dd2ad4f488673f447293db983a993bcfbf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\farouk\.android\build-cache\3809e8ce7d691ac152b2880c5483200c9977f624\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\farouk\.android\build-cache\9868389a2b076762d567c8a1cc80f1cbc93d67cb\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\farouk\.android\build-cache\d09da841807cbd8a21a6e8f2fb86fa5e9df0987a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\farouk\.android\build-cache\d71bde7097f294e9e659b457efc60da93382d233\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\farouk\.android\build-cache\f90972cc9d375836a3d6ff69b3beeb49b9b030c8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\farouk\.android\build-cache\a60ae66e105e7d44db88b84f4177f9b8b4c0ef16\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\farouk\.android\build-cache\21d28b269d98d28164118bfc91f807d2d25255c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\farouk\.android\build-cache\3207477ea248e06a0fd6178bef4729d856b9af47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\farouk\.android\build-cache\2b04c6eefee4cf798662ed12f6feb176af1c3081\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\farouk\.android\build-cache\692f1af6eab580ec457ce538c679896e55e9beb7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:20:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:21:9-23:71
+	android:value
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:23:13-68
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:22:13-58
+activity#tn.com.cellcom.cellcomevertek.LoginActivity
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:theme
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:25:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:30:27-74
+activity#tn.com.cellcom.cellcomevertek.OneShopPage
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:34:9-49
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:34:19-46
+service#tn.com.cellcom.cellcomevertek.utils.LocationService
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:36:9-38:38
+	android:enabled
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:37:13-50
+activity#tn.com.cellcom.cellcomevertek.MainActivity
+ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:43:13-56
+	android:theme
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml:42:13-41
+uses-sdk
+INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\farouk\.android\build-cache\bf11341e62c80570e52a45b2b4ef5d5cd9eca7a2\output\AndroidManifest.xml:18:5-42
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\farouk\.android\build-cache\5dd372130a3deb44d1f48592cee3baafe201924e\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\farouk\.android\build-cache\3194f6a4669e6a0ab3ea8f60581ec8c4cf712e0c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\farouk\.android\build-cache\a76872b1b209b70822b6a0a2fb34a6587479309b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\c6a90ff974e77e03a1a3e45d9d388f288e1d1c30\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\f9cf81dd2ad4f488673f447293db983a993bcfbf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\farouk\.android\build-cache\e8945eb0b47d03def77b1e9d27baa20d41da33ee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\farouk\.android\build-cache\3809e8ce7d691ac152b2880c5483200c9977f624\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\farouk\.android\build-cache\9868389a2b076762d567c8a1cc80f1cbc93d67cb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\farouk\.android\build-cache\b39b95ba40a622be50961af0b240dbeef19e06d6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\farouk\.android\build-cache\d09da841807cbd8a21a6e8f2fb86fa5e9df0987a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\farouk\.android\build-cache\d71bde7097f294e9e659b457efc60da93382d233\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\farouk\.android\build-cache\f90972cc9d375836a3d6ff69b3beeb49b9b030c8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\farouk\.android\build-cache\a60ae66e105e7d44db88b84f4177f9b8b4c0ef16\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\farouk\.android\build-cache\21d28b269d98d28164118bfc91f807d2d25255c0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\farouk\.android\build-cache\3207477ea248e06a0fd6178bef4729d856b9af47\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\farouk\.android\build-cache\2b04c6eefee4cf798662ed12f6feb176af1c3081\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\farouk\.android\build-cache\692f1af6eab580ec457ce538c679896e55e9beb7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\farouk\.android\build-cache\3194f6a4669e6a0ab3ea8f60581ec8c4cf712e0c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\farouk\Desktop\demo\CellcomEvertek\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\farouk\.android\build-cache\3194f6a4669e6a0ab3ea8f60581ec8c4cf712e0c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\farouk\.android\build-cache\a76872b1b209b70822b6a0a2fb34a6587479309b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\c6a90ff974e77e03a1a3e45d9d388f288e1d1c30\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\farouk\.android\build-cache\f9cf81dd2ad4f488673f447293db983a993bcfbf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\farouk\.android\build-cache\e8945eb0b47d03def77b1e9d27baa20d41da33ee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\farouk\.android\build-cache\3809e8ce7d691ac152b2880c5483200c9977f624\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\farouk\.android\build-cache\f90972cc9d375836a3d6ff69b3beeb49b9b030c8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\farouk\.android\build-cache\a60ae66e105e7d44db88b84f4177f9b8b4c0ef16\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\farouk\.android\build-cache\21d28b269d98d28164118bfc91f807d2d25255c0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\farouk\.android\build-cache\3207477ea248e06a0fd6178bef4729d856b9af47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\farouk\.android\build-cache\2b04c6eefee4cf798662ed12f6feb176af1c3081\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\farouk\.android\build-cache\692f1af6eab580ec457ce538c679896e55e9beb7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\AndroidManifest.xml:23:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\AndroidManifest.xml:20:20-65

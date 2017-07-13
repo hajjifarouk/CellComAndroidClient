@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\farouk\.android\build-cache\3207477ea248e06a0fd6178bef4729d856b9af47\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9952da158b08767a45575e97cad71d35320b091a.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\2b04c6eefee4cf798662ed12f6feb176af1c3081\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-af737a80f71b3b05b6e8fd0c3ae77048451a7286.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\b31c186214acca793d4bc27f7ca6b690a5c01cb7\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-71f28f13cc324f78178827656ab5f64bebec34b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\d09da841807cbd8a21a6e8f2fb86fa5e9df0987a\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-08b305ba6f918643b4f9e4605f84beb4f92db889.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.6.1-e2c0823fd83873ed4bab112c26286e46c55ce1eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\AppData\Local\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-2b617b496da50360d897cf53c9a172bcfd439927.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-8c0e8b0eedf25bc7f54f283d86c04763afe11043.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\fd00ce4e1010a3101a49a880418bc03b5be59d92\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-50fa45737c17d88b4260d5961ff875565bd587aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\692f1af6eab580ec457ce538c679896e55e9beb7\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c369b9d6c6ea9d42a39dd35281fd200dc1c7b59b.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\5dd372130a3deb44d1f48592cee3baafe201924e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ea62b2b103030aa257009821437a93caf6c05ad2.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        revision="25.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-1.1.5-af5d46ce5a822b7123dadc56a3153d5dcde5cf01.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\b39b95ba40a622be50961af0b240dbeef19e06d6\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8058e9b6878999c916af23530e3b106af8eec7bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.6.0-a36fb29526171a495ec2fae7605e372ec9279da6.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\AppData\Local\Android\android-sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-7b882d013292901bdf806dc7d751552e6d1072c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\a76872b1b209b70822b6a0a2fb34a6587479309b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-11df3bd8f03f524be60801e023d440765c5b79db.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\fa3fccd02e7e7542674c34678b04f40ac6dc85f9\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5098d2972a789477b29d99085fb8a3a03d0e307a.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\f90972cc9d375836a3d6ff69b3beeb49b9b030c8\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2ccf9f3d00bf942b8fbf3f33c0288f551ab9c1fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\f9cf81dd2ad4f488673f447293db983a993bcfbf\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5bbc519f5886b45159fd09df9d0412943f455dca.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\cd4cdc72ddd679a16389580ea4eedb53da40fd2c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-eb5a82ace7630244b95fb40f7f1b4c785940e15f.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\c6a90ff974e77e03a1a3e45d9d388f288e1d1c30\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-22c289bfc766d5b85e1763028784862051afbf1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\9868389a2b076762d567c8a1cc80f1cbc93d67cb\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-23ad188b1fb7f1cdee848c710aaf39680980f41d.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\AppData\Local\Android\android-sdk\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-3c340a65f0d93e2189e796485aa2f650ed55028f.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\a60ae66e105e7d44db88b84f4177f9b8b4c0ef16\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1a506bb715de9ef26380202bdd81a6054bc54bcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\bf11341e62c80570e52a45b2b4ef5d5cd9eca7a2\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-caad3b24c9494df47b3283105c043a2dc2826269.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\3809e8ce7d691ac152b2880c5483200c9977f624\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-426d59314d361c2109fc071b6d7670ed30d53963.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        revision="25.0.2"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\adapter-rxjava-2.0.2-51f4794e49aa95a86ca58f1eb456f6871d1285a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\d71bde7097f294e9e659b457efc60da93382d233\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-65d4b5181bfebcfa47d0ebc1ff86202dc9e53226.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.2.0-1ba9f36365c2ecf8d1000df8fc058a776d6b41ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-gson-2.0.2-d83ef5794f4c8fc70a6565e390ba53e06966c3d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\e8945eb0b47d03def77b1e9d27baa20d41da33ee\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-15e4cf17890bba0e512233fc57e11eaa3a5b93a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\retrofit-2.0.2-47cbc2d298f98da958f8011f20932ed7ed465998.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\21d28b269d98d28164118bfc91f807d2d25255c0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-db1a81ef5bc4bb724931ad8bf462e44159986b6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\farouk\.android\build-cache\3194f6a4669e6a0ab3ea8f60581ec8c4cf712e0c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\farouk\Desktop\demo\CellcomEvertek\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-10cc741562ec7b779550fb10635a34ee73973857.jar" />
+    </item>
+
+</items>

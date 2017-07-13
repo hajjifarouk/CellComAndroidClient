@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "500632564579",
+    "firebase_url": "https://swifte-1294.firebaseio.com",
+    "project_id": "swifte-1294",
+    "storage_bucket": "swifte-1294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500632564579:android:41639c683b9836c1",
+        "android_client_info": {
+          "package_name": "tn.com.cellcom.cellcomevertek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500632564579-6csfehudu7qnpp7qoi37heuopkrgsda1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAKFMXl0QI0Du61bVATD6BX9KsUjgJpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

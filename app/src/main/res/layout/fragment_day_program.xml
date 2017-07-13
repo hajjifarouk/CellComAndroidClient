@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/ll99"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/txtdatesearch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="2017-07-08"
+            android:textSize="20dp"
+            android:textColor="#4DA6D2"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/imgsearch"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/calendar"/>
+
+        <Button
+            android:id="@+id/btnsearch"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="search"
+            android:background="@drawable/my_button"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtnoprogram"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="No planing for today"
+        android:visibility="gone"/>
+    <ListView
+        android:padding="1dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/programlist"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        android:descendantFocusability="blocksDescendants"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+
+</LinearLayout>
